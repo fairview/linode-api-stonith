@@ -11,14 +11,14 @@ commands to the API.
 Dependencies
 ------------
 
-python-pycurl (not absolutely necessary, but python-linode uses it for better
+python-pycurl (not absolutely necessary, but linode-python uses it for better
 SSL certificate validation):
 
     - apt-get install python-pycurl
 
 The Python bindings to the Linode API:
 
-    - sudo pip install python-linode
+    - sudo pip install linode-python
 
 Configuration
 -------------
